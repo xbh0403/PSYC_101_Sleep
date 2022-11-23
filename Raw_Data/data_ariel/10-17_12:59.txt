@@ -1,0 +1,80 @@
+Response Summary: 
+
+Please enter your full student number.
+   51538460
+
+Which section are you in?
+   002 (11:00 - 12:20)
+
+Have you entered data for this survey before?
+   No
+
+How many hours of sleep do you need to feel well-rested?
+   Hours of sleep   10
+
+How many hours sleep did you get last night?
+   Hours of sleep   10
+
+How well did you sleep last night?
+   Very well
+
+Did you have or do any of the following 2 hours before you went to sleep 
+last night? Select all t...
+   A large meal
+   Played video games
+
+Before going to sleep last night, for how many hours did you stop working? 
+Please fill in a number:
+   1
+
+How tired did you feel today?
+   Slightly tired
+
+Did you have a midterm today?
+   No.
+
+Did you dream last night? If so, briefly describe your dream here please. 
+If you dont remember dr...
+   I dreamed that I got 25%on my psychology midterm then I dreamed that I 
+moved to a new home and I am decorating my room but I can’t find many of 
+my stuff and also some of my favorite anime figures are broken. But my 
+room is very nice it have a very special moon shape light and my desk is 
+very clean.
+
+How long did it take you to complete the task (in minutes and seconds, 
+e.g., 1:32 = 1 minute and...
+   2 minute and 32 seconds
+
+How many card turns did it take you to complete the task?
+   116
+
+Timing
+   First Click   7.685
+   Last Click   188.045
+   Page Submit   192.049
+   Click Count   7
+
+How stressed did you feel today?
+   Somewhat stressed
+
+How well did you feel you were able to cope with your stress today?
+   Very well
+
+Please indicate the extent to which you agree / disagree with the 
+following statements
+   Today I felt emotionally drained.
+      Disagree
+   Today I felt stressed.
+      Somewhat agree
+   I found it difficult to concentrate on my work today.
+      Disagree
+   I felt competent today.
+      Somewhat agree
+   I felt happy today.
+      Somewhat agree
+   I enjoyed my work today.
+      Somewhat agree
+
+Please enter your e-mail address. It is important that your e-mail address 
+is entered properly so...
+   Ariel.zangsiqi@gmail.com

@@ -1,0 +1,75 @@
+Response Summary: 
+
+Please enter your full student number.
+   51538460
+
+Which section are you in?
+   002 (11:00 - 12:20)
+
+Have you entered data for this survey before?
+   Yes
+
+How many hours sleep did you get last night?
+   Hours of sleep   9.2
+
+How well did you sleep last night?
+   Very well
+
+Did you have or do any of the following 2 hours before you went to sleep 
+last night? Select all t...
+   Played video games
+   Skyped / called a friend or family member back home
+
+Before going to sleep last night, for how many hours did you stop working? 
+Please fill in a number:
+   1
+
+How tired did you feel today?
+   Moderately tired
+
+Did you have a midterm today?
+   No.
+
+Did you dream last night? If so, briefly describe your dream here please. 
+If you dont remember dr...
+   I dreamed about having Japanese test at 1 and 3 pm but also having 
+Cantonese test at 2pm. I also dreamed that I made a huge burger. I also 
+saw a red hair monster.
+
+How long did it take you to complete the task (in minutes and seconds, 
+e.g., 1:32 = 1 minute and...
+   1 minute and 33 second
+
+How many card turns did it take you to complete the task?
+   80
+
+Timing
+   First Click   1.403
+   Last Click   112.327
+   Page Submit   114.458
+   Click Count   5
+
+How stressed did you feel today?
+   Very stressed
+
+How well did you feel you were able to cope with your stress today?
+   Slightly well
+
+Please indicate the extent to which you agree / disagree with the 
+following statements
+   Today I felt emotionally drained.
+      Neither agree nor disagree
+   Today I felt stressed.
+      Agree
+   I found it difficult to concentrate on my work today.
+      Somewhat agree
+   I felt competent today.
+      Neither agree nor disagree
+   I felt happy today.
+      Neither agree nor disagree
+   I enjoyed my work today.
+      Neither agree nor disagree
+
+Please enter your e-mail address. It is important that your e-mail address 
+is entered properly so...
+   Ariel.zangsiqi@gmail.com

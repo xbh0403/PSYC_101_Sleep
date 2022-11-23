@@ -1,0 +1,76 @@
+Response Summary: 
+
+Please enter your full student number.
+   51538460
+
+Which section are you in?
+   002 (11:00 - 12:20)
+
+Have you entered data for this survey before?
+   Yes
+
+How many hours sleep did you get last night?
+   Hours of sleep   5.5
+
+How well did you sleep last night?
+   Not well at all
+
+Did you have or do any of the following 2 hours before you went to sleep 
+last night? Select all t...
+   Studied
+
+Before going to sleep last night, for how many hours did you stop working? 
+Please fill in a number:
+   0
+
+How tired did you feel today?
+   Very tired
+
+Did you have a midterm today?
+   Yes - 1 midterm
+
+Did you dream last night? If so, briefly describe your dream here please. 
+If you dont remember dr...
+   I dreamed that I been chase down by some person. Then I meet my old 
+friends and there is a contest host at UBC and I am at rank 1. 9 people 
+will fight against me at the same time and I can call my friends to help 
+me out. I called many but they are all busy! So I need to fight by myself 
+and luckily I won. 
+
+How long did it take you to complete the task (in minutes and seconds, 
+e.g., 1:32 = 1 minute and...
+   1 minute and 17 seconds
+
+How many card turns did it take you to complete the task?
+   66
+
+Timing
+   First Click   4.856
+   Last Click   89.388
+   Page Submit   91.451
+   Click Count   6
+
+How stressed did you feel today?
+   Extremely stressed
+
+How well did you feel you were able to cope with your stress today?
+   Not well at all
+
+Please indicate the extent to which you agree / disagree with the 
+following statements
+   Today I felt emotionally drained.
+      Strongly agree
+   Today I felt stressed.
+      Strongly agree
+   I found it difficult to concentrate on my work today.
+      Strongly agree
+   I felt competent today.
+      Strongly disagree
+   I felt happy today.
+      Strongly disagree
+   I enjoyed my work today.
+      Strongly disagree
+
+Please enter your e-mail address. It is important that your e-mail address 
+is entered properly so...
+   Ariel.zangsiqi@gmail.com

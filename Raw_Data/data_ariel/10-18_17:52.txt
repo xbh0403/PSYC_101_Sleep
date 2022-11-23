@@ -1,0 +1,76 @@
+Response Summary: 
+
+Please enter your full student number.
+   51538460
+
+Which section are you in?
+   002 (11:00 - 12:20)
+
+Have you entered data for this survey before?
+   Yes
+
+How many hours sleep did you get last night?
+   Hours of sleep   9
+
+How well did you sleep last night?
+   Very well
+
+Did you have or do any of the following 2 hours before you went to sleep 
+last night? Select all t...
+   Played video games
+
+Before going to sleep last night, for how many hours did you stop working? 
+Please fill in a number:
+   0
+
+How tired did you feel today?
+   Slightly tired
+
+Did you have a midterm today?
+   No.
+
+Did you dream last night? If so, briefly describe your dream here please. 
+If you dont remember dr...
+   I dreamed about me putting nail polish on my nail but it always looks 
+bad for some reason. It was blue and yellow. I also dreamed that there is 
+a zombie outbreak happening and I am at a very safe place. One day 3people 
+try to come in but I said no to it and put them in the isolate room. After 
+few hours they turn into zombies.
+
+How long did it take you to complete the task (in minutes and seconds, 
+e.g., 1:32 = 1 minute and...
+   1 minute and 13 second
+
+How many card turns did it take you to complete the task?
+   66
+
+Timing
+   First Click   0.872
+   Last Click   11.421
+   Page Submit   13.087
+   Click Count   4
+
+How stressed did you feel today?
+   A little stressed
+
+How well did you feel you were able to cope with your stress today?
+   Slightly well
+
+Please indicate the extent to which you agree / disagree with the 
+following statements
+   Today I felt emotionally drained.
+      Disagree
+   Today I felt stressed.
+      Somewhat agree
+   I found it difficult to concentrate on my work today.
+      Disagree
+   I felt competent today.
+      Neither agree nor disagree
+   I felt happy today.
+      Somewhat agree
+   I enjoyed my work today.
+      Somewhat agree
+
+Please enter your e-mail address. It is important that your e-mail address 
+is entered properly so...
+   Ariel.zangsiqi@gmail.com

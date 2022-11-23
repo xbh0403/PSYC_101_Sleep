@@ -1,0 +1,75 @@
+Response Summary: 
+
+Please enter your full student number.
+   75674408
+
+Which section are you in?
+   002 (11:00 - 12:20)
+
+Have you entered data for this survey before?
+   Yes
+
+How many hours sleep did you get last night?
+   Hours of sleep   5
+
+How well did you sleep last night?
+   Slightly well
+
+Did you have or do any of the following 2 hours before you went to sleep 
+last night? Select all t...
+   Read (on an electronic device)
+   Tea / Coffee (with caffeine)
+   Studied
+   Spent time on my phone.
+
+Before going to sleep last night, for how many hours did you stop working? 
+Please fill in a number:
+   0
+
+How tired did you feel today?
+   Very tired
+
+Did you have a midterm today?
+   Yes - 1 midterm
+
+Did you dream last night? If so, briefly describe your dream here please. 
+If you dont remember dr...
+   N/A
+
+How long did it take you to complete the task (in minutes and seconds, 
+e.g., 1:32 = 1 minute and...
+   2:00
+
+How many card turns did it take you to complete the task?
+   126
+
+Timing
+   First Click   29.523
+   Last Click   123.901
+   Page Submit   129.953
+   Click Count   2
+
+How stressed did you feel today?
+   Stressed
+
+How well did you feel you were able to cope with your stress today?
+   Not well at all
+
+Please indicate the extent to which you agree / disagree with the 
+following statements
+   Today I felt emotionally drained.
+      Strongly agree
+   Today I felt stressed.
+      Strongly agree
+   I found it difficult to concentrate on my work today.
+      Disagree
+   I felt competent today.
+      Somewhat disagree
+   I felt happy today.
+      Strongly disagree
+   I enjoyed my work today.
+      Disagree
+
+Please enter your e-mail address. It is important that your e-mail address 
+is entered properly so...
+   xbh0403@student.ubc.ca
